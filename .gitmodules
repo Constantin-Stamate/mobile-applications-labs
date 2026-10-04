@@ -1,3 +1,6 @@
 [submodule "discount-calculator-app"]
 	path = discount-calculator-app
 	url = https://github.com/Constantin-Stamate/discount-calculator-app.git
+[submodule "medical-appointment-ui"]
+	path = medical-appointment-ui
+	url = https://github.com/Constantin-Stamate/medical-appointment-ui.git
