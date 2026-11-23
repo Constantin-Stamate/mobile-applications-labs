@@ -4,3 +4,6 @@
 [submodule "medical-appointment-ui"]
 	path = medical-appointment-ui
 	url = https://github.com/Constantin-Stamate/medical-appointment-ui.git
+[submodule "medical-appointment-state-management"]
+	path = medical-appointment-state-management
+	url = https://github.com/Constantin-Stamate/medical-appointment-state-management.git
